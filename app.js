@@ -22,6 +22,8 @@ const orderRouter = require('./routes/orderRoutes');
 const ticketRouter = require('./routes/ticketRoutes');
 const viewRouter = require('./routes/viewRoutes');
 
+const Order = require('./models/orderModel');
+
 //----------Create Server-------------//
 const app = express();
 
@@ -78,7 +80,11 @@ const limiter = rateLimit({
 app.use('/api', limiter);
 
 //Webhook Route As it has to come before express.json
-app.use('/api/v1/order/webhook', express.raw({ type: '*/*' }), orderRouter);
+app.use(
+  '/api/v1/order/webhook',
+  express.raw({ type: 'application/json' }),
+  OrderController.webhook
+);
 //Parse incoming JSON data to use in req.body
 app.use(express.json({ limit: '20kb' }));
 
