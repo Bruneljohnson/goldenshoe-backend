@@ -17,3 +17,6 @@ to be improved:
 - add two-factor authentication
 - allow social media login and authentication.
 - create admin app for Golden Shoe to add and remove stock, show sales stats and allow instant messaging using socket.io.
+
+visit the API website:
+https://goldenshoe-api.herokuapp.com/
