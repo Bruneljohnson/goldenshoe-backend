@@ -187,7 +187,7 @@ exports.webhook = async (req, res, next) => {
         .then(async (customer) => {
           try {
             // CREATE ORDER
-            createOrder(customer, event.data.object);
+            await createOrder(customer, event.data.object);
           } catch (err) {
             console.log(typeof createOrder);
             console.log(err);
