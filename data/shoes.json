@@ -1,0 +1,488 @@
+[
+  {
+    "title": "Chuck 70 AT-CX - Green",
+    "description": "Chuck 70 is transformed for the future with exaggerated features and a platform sole",
+    "image": [
+      "https://bit.ly/3PwTwWK",
+      "https://bit.ly/3IBPdHj",
+      "https://bit.ly/3AUVhJ0",
+      "https://bit.ly/3o1QQ7J"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 95,
+    "countInStock": 115,
+    "colour": "green"
+  },
+  {
+    "title": "Chuck 70 AT-CX - White",
+    "description": "Chuck 70 is transformed for the future with exaggerated features and a platform sole",
+    "image": [
+      "https://bit.ly/3uNtHJK",
+      "https://bit.ly/3ANEYOh",
+      "https://bit.ly/3cgrErq",
+      "https://bit.ly/3uLVRFi"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 95,
+    "countInStock": 115,
+    "colour": "white"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Black",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3uO4crI",
+      "https://bit.ly/3z4EMca",
+      "https://bit.ly/3zgzr1D",
+      "https://bit.ly/3z8NqGG"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 80,
+    "countInStock": 115,
+    "colour": "black"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Blue",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3Ryz09U",
+      "https://bit.ly/3yKzYqK",
+      "https://bit.ly/3o1R7aL",
+      "https://bit.ly/3PstpQv"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 80,
+    "countInStock": 115,
+    "colour": "blue"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Green",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3uQQ29n",
+      "https://bit.ly/3o6vqq6",
+      "https://bit.ly/3ciGspz",
+      "https://bit.ly/3PeJpG7"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 80,
+    "countInStock": 115,
+    "colour": "green"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Pink",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3yGFwTj",
+      "https://bit.ly/3PeJKIT",
+      "https://bit.ly/3z5pMun",
+      "https://bit.ly/3ARnHn6"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 80,
+    "countInStock": 115,
+    "colour": "pink"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Red",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3uPMNyX",
+      "https://bit.ly/3z7hfr5",
+      "https://bit.ly/3O8UEyo",
+      "https://bit.ly/3z3JSFx"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 80,
+    "countInStock": 115,
+    "colour": "red"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - White",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3Ona02J",
+      "https://bit.ly/3PnNoQc",
+      "https://bit.ly/3yIJPxj",
+      "https://bit.ly/3PrttQp"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 80,
+    "countInStock": 115,
+    "colour": "white"
+  },
+  {
+    "title": "Chuck Taylor All Star Lift Platform Peaches - Red",
+    "description": "A peach-printed lining and embroidered peach details bring summer-ready style to platform Chucks.",
+    "image": [
+      "https://bit.ly/3PmfZpq",
+      "https://bit.ly/3oalGuF",
+      "https://bit.ly/3IIkeJM",
+      "https://bit.ly/3AQXO6T"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "hi-top",
+    "price": 80,
+    "countInStock": 115,
+    "colour": "red"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Black Low",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3yKFDxn",
+      "https://bit.ly/3uOgzo2",
+      "https://bit.ly/3uL26c7",
+      "https://bit.ly/3RzhQZA"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "low-top",
+    "price": 75,
+    "countInStock": 115,
+    "colour": "black"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Blue Low",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3P9TKTM",
+      "https://bit.ly/3O73lJO",
+      "https://bit.ly/3RwQDH4",
+      "https://bit.ly/3o2sJ8L"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "low-top",
+    "price": 75,
+    "countInStock": 115,
+    "colour": "blue"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Green Low",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3vcxPUb",
+      "https://bit.ly/3aCOWaC",
+      "https://bit.ly/3z9lNNH",
+      "https://bit.ly/3OazRdX"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "low-top",
+    "price": 75,
+    "countInStock": 115,
+    "colour": "green"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - Red Low",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3aDDdsj",
+      "https://bit.ly/3IM91I8",
+      "https://bit.ly/3cg2etL",
+      "https://bit.ly/3PcndMI"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "low-top",
+    "price": 75,
+    "countInStock": 115,
+    "colour": "red"
+  },
+  {
+    "title": "Chuck 70 Vintage Canvas - White Low",
+    "description": "The best-ever gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3aFu9TG",
+      "https://bit.ly/3c9pVE9",
+      "https://bit.ly/3uNYE0u",
+      "https://bit.ly/3PtDZa1"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "low-top",
+    "price": 75,
+    "countInStock": 115,
+    "colour": "white"
+  },
+  {
+    "title": "Chuck Taylor Vintage Slip On Canvas - Blue Slip",
+    "description": "The best-ever Slip on gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3oan6W1",
+      "https://bit.ly/3PLjGoP",
+      "https://bit.ly/3aFuAxi",
+      "https://bit.ly/3RAW7QZ"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "slip-on",
+    "price": 65,
+    "countInStock": 115,
+    "colour": "blue"
+  },
+  {
+    "title": "Chuck Taylor Vintage Slip On Canvas - Green Slip",
+    "description": "The best-ever Slip on gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3PbifQi",
+      "https://bit.ly/3P8l5G0",
+      "https://bit.ly/3uL3hbx",
+      "https://bit.ly/3RLoU5I"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "slip-on",
+    "price": 65,
+    "countInStock": 115,
+    "colour": "green"
+  },
+  {
+    "title": "Chuck Taylor Vintage Slip On Canvas - White Slip",
+    "description": "The best-ever Slip on gets a seasonal makeover with premium canvas in archival colour.",
+    "image": [
+      "https://bit.ly/3z6ZdVN",
+      "https://bit.ly/3ca03bj",
+      "https://bit.ly/3O8WrU8",
+      "https://bit.ly/3omW12l"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "slip-on",
+    "price": 65,
+    "countInStock": 115,
+    "colour": "white"
+  },
+  {
+    "title": "Chuck Taylor Vintage Slip On Canvas - White Sliders",
+    "description": "Your classic slip-on sandal represents Unity, to remind you we are strongest when we stand together.",
+    "image": [
+      "https://bit.ly/3AV2tVx",
+      "https://bit.ly/3PyAcIF",
+      "https://bit.ly/3RCJogX",
+      "https://bit.ly/3z33TvP"
+    ],
+    "sizes": [
+      { "size": "UK2", "quantity": 5 },
+      { "size": "UK3", "quantity": 5 },
+      { "size": "UK4", "quantity": 10 },
+      { "size": "UK5", "quantity": 10 },
+      { "size": "UK6", "quantity": 20 },
+      { "size": "UK7", "quantity": 20 },
+      { "size": "UK8", "quantity": 20 },
+      { "size": "UK9", "quantity": 10 },
+      { "size": "UK10", "quantity": 10 },
+      { "size": "UK11", "quantity": 5 }
+    ],
+    "categories": ["women", "men", "kids"],
+    "shoeType": "slip-on",
+    "price": 65,
+    "countInStock": 115,
+    "colour": "white"
+  }
+]
