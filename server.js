@@ -34,7 +34,7 @@ launchMongoose();
 
 //----------START SERVER-------------//
 const port = process.env.PORT;
-const server = app.listen(port, '127.0.0.1', () => {
+const server = app.listen(port, () => {
   console.log(`EXPRESS SERVER RUNNING AT ${port}`);
 });
 
