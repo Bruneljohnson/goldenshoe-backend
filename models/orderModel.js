@@ -25,6 +25,13 @@ const orderSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
+//----------VIRTUALLY POPULATE-------------//
+orderSchema.virtual('tickets', {
+  ref: 'Ticket',
+  foreignField: 'order',
+  localField: '_id',
+});
+
 //----------QUERY MIDDLEWARE-------------//
 orderSchema.pre(/^find/, function (next) {
   this.populate('user').populate({
