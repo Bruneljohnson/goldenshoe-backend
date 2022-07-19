@@ -93,8 +93,8 @@ exports.getCheckoutSession = async (req, res, next) => {
       line_items,
       mode: 'payment',
       customer: customer.id,
-      success_url: `http://localhost:3000/checkout-success`,
-      cancel_url: `http://localhost:3000/cart`,
+      success_url: `https://bruneljohnson.github.io/goldenshoe/checkout-success`,
+      cancel_url: `https://bruneljohnson.github.io/goldenshoe/cart`,
     });
 
     // 3) Create session as response
